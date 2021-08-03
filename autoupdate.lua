@@ -61,4 +61,6 @@ end
 
 function cmd_update(arg)
     sampShowDialog(1000, "Àâòîîáíîâëåíèå v2.0", "{FFFFFF}Ýòî óðîê ïî îáíîâëåíèþ\n{FFF000}Íîâàÿ âåðñèÿ", "Çàêðûòü", "", 0)
+    sampAddChatMessage('askaskaskas', -1)
+end
 end
